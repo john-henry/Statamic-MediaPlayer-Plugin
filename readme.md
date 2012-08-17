@@ -12,16 +12,17 @@ The Media Player for Flash and HTML5 Plugin enables you to deliver video content
 
 Add the following to the head of your layout template
     
-    {{ mediaplayer:head}}
+	    {{ mediaplayer:head}}
     
 Either in template or post content field add following tag
 
-   {{ mediaplayer file="/assets/video/video.mp4" image="/assets/img/preview.jpg" skin="carbon" height="360" width="640" }}
+	   {{ mediaplayer file="/assets/video/video.mp4" image="/assets/img/preview.jpg" skin="carbon" height="360" width="640" }}
 
 ---
 
 ## Changelog 
 
-Version : 0.8
+__Version : 0.8__
+
 	* Initial Release
 
